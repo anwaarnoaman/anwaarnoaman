@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/06/be/df/06bedfb3ed400da352159a4e4807645d.gif)](https://noamananwaar.com)
+[![MasterHead](https://i.pinimg.com/originals/06/be/df/06bedfb3ed400da352159a4e4807645d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Noaman Anwaar</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
